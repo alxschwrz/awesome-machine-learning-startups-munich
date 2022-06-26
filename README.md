@@ -11,3 +11,21 @@
 </p>
 
 This list is by no means complete. If you think a company should be added or a description is wrong, please make a PR. Startups are listed in alphabetical order. 
+
+## 📚 Natural language processing
+
+## 🗣️ Voice & sound
+
+## 👁️ Computer vision
+
+## 🤖 Robotics
+
+## 🚗 Autonomous driving
+
+## 🧬 Healthcare & Biotech
+
+## ⚙️ MLOps
+
+## 🔬 Science & engineering
+
+## 🚀 Other
