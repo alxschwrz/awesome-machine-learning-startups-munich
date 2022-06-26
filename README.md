@@ -19,12 +19,21 @@ This list is by no means complete. If you think a company should be added or a d
 ## 👁️ Computer vision
 
 ## 🤖 Robotics
+**[Agile Robots](https://www.agile-robots.com/)**: Aims to bridge the gap between AI and robotics by developing systems that offer state-of-the-art full-body force sensitivity and vision intelligence.
+
+**[Intrinsic](https://intrinsic.ai/)**: Software for Robotics. Advances in AI, perception and simulation will redefine what's possible for industrial robotics in the near future — with software and data at the core. 
 
 ## 🚗 Autonomous driving
+
+**[Argo.ai](https://www.argo.ai/)**: Independent company that builds the software, hardware, maps, and cloud-support infrastructure to power self-driving vehicles.
 
 ## 🧬 Healthcare & Biotech
 
 ## ⚙️ MLOps
+**[dstack.ai](https://dstack.ai/)**: It's like Docker, but for building AI apps.
+in the cloud
+
+
 
 ## 🔬 Science & engineering
 
