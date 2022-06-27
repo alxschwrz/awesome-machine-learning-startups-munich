@@ -62,6 +62,8 @@ This list is by no means complete. If you think a company should be added or a d
 
 **[Magazino](https://www.magazino.eu/)**: Autonomous supply-chain robotics.
 
+**[Olive Robotics](https://www.oliverobotics.de/)**: Modular embdedded AI robotics components.
+
 **[Robominds](https://www.robominds.de/en/)**: AI for industrial robotics.
 
 **[Robotise](https://robotise.eu/)**: Service automation robotics.
@@ -89,6 +91,8 @@ This list is by no means complete. If you think a company should be added or a d
 ## 🧬 Healthcare & Biotech
 
 **[ALFA AI](https://www.alfa-ai.com/)**: AI fitness coach.
+
+**[Breathment](https://breathment.com/home)**: Digitizing breathing therapy for health professionals.
 
 **[deepc](https://www.deepc.ai/)**: Radiology AI platform.
 
