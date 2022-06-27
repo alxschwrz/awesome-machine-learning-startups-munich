@@ -38,6 +38,12 @@ This list is by no means complete. If you think a company should be added or a d
 
 **[Retorio](https://www.retorio.com/)**: Behavior Intelligence Platform to spot, hire & develop the right team for performance culture.
 
+**[Tawny](https://www.tawny.ai/)**: Emotion Analytics.
+
+**[Toposens](https://toposens.com/)**: 3D ultrasonic echolocation sensor.
+
+**[36ZERO Vision](https://36zerovision.com/)**: Visual quality assurance with AI.
+
 ## 🔎 Search 
 **[Curiosity](https://curiosity.ai/)**: Productivity app that lets you search all your files and apps.
 
@@ -53,27 +59,43 @@ This list is by no means complete. If you think a company should be added or a d
 
 **[Magazino](https://www.magazino.eu/)**: Autonomous supply-chain robotics.
 
-**[Robominds](https://www.robominds.de/en/)**: AI for industrial robotics
+**[Robominds](https://www.robominds.de/en/)**: AI for industrial robotics.
+
+**[Robotise](https://robotise.eu/)**: Service automation robotics.
+
+**[sewts](https://www.sewts.com/)**: Robotics and Computer Vision for handling deformable objects.
 
 ## 🚗 Transportation & autonomous driving
-**[TWAICE](https://twaice.com/de/)**: Predictive battery analytics.
 
 **[Argo.ai](https://www.argo.ai/)**: Independent company that builds the software, hardware, maps, and cloud-support infrastructure to power self-driving vehicles.
 
+**[Fernride](https://www.fernride.com/)**: Driving logistics automation.
+
 **[Konux](https://www.konux.com/)**: Combines Machine Learning algorithms and IoT to deliver software-as-a-service solutions for operation, monitoring, and maintenance process automation
 
+**[Parkdepot](https://www.park-depot.com/)**: Digital solution for parking spaces.
+
+**[Smartlane](https://smartlane.de/en/)**: AI-powered Transport Optimization.
+
+**[tiramizoo](https://tiramizoo.com/)**: Transport management system for urban logistics
+
+**[TWAICE](https://twaice.com/de/)**: Predictive battery analytics.
+
 ## 🧬 Healthcare & Biotech
+
+**[deepc](https://www.deepc.ai/)**: Radiology AI platform.
+
 **[Ebenbuild](https://www.ebenbuild.com/)**: Precision therapy based on personalized digital twins.
+
+**[ImFusion](https://www.imfusion.com/)**: Consulting, research and development in advanced medical image computing technologies and computer vision.
+
+**[Laralab](https://www.laralab.com/)**: Decision support for heart valve interventions. 
 
 **[molab.ai](https://www.molab.ai/)**: In silico property predictions for drug and compound discovery
 
 **[Ryver.ai](https://ryver.ai/)**: Software to generate synthetic data and assess its privacy as well as quality.
 
-**[deepc](https://www.deepc.ai/)**: Radiology AI platform.
-
-**[ImFusion](https://www.imfusion.com/)**: Consulting, research and development in advanced medical image computing technologies and computer vision.
-
-**[Laralab](https://www.laralab.com/)**: Decision support for heart valve interventions. 
+**[Smart Reporting](https://www.smart-reporting.com/en/)**: Medical reporting and documentation.
 
 ## ⚙️ MLOps
 **[ZenML](https://zenml.io/home)**: Standardize ML Workflows.
@@ -119,6 +141,12 @@ and talent management fast, easy, and unbiased.
 
 **[riskmethods](https://www.riskmethods.net/)**: Supply chain risk management.
 
+**[Laya](https://www.laya.ai/)**: Hotel SaaS solution for vacation packages.
+
 **[Fold.ai](https://fold.ai/)**: Forest ecosystem monitoring.
+
+**[UX3D](https://ux3d.io/)**: Experts for 3D real-time
+
+**[Brainamics](https://www.brainamics.de/)**: Playtesting for Gaming.
 
 **[Company](Link)**: Description
