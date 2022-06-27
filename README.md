@@ -15,11 +15,14 @@ This list is by no means complete. If you think a company should be added or a d
 ## 📚 Natural language processing
 **[SUMM](https://summ-ai.com/)**: Translating to easy language.
 
+**[Pyoneer](https://www.pyoneer.io/)**: Customer Feedback Analytics.
+
 ## 🗣️ Voice & sound
 **[Voice Line](https://getvoiceline.com/)**: Smart voice messaging to enable asynchronous communication and collaboration
 
+**[Bragi](https://www.bragi.com/)**: Wireless headphones and hearable technology innovation.
+
 ## 👁️ Computer vision
-**[Presize.ai](https://www.presize.ai/)**: Size recommendation for E-Commerce.
 
 **[Blickfeld](https://www.blickfeld.com/)**: LiDAR sensors and perception software.
 
@@ -29,19 +32,28 @@ This list is by no means complete. If you think a company should be added or a d
 
 **[Orbem](https://orbem.ai/)**: MRI-based imaging technology.
 
+**[Presize.ai](https://www.presize.ai/)**: Size recommendation for E-Commerce.
+
+**[Recogni](https://www.recogni.com/)**: Realtime Object Recognition.
+
+**[Retorio](https://www.retorio.com/)**: Behavior Intelligence Platform to spot, hire & develop the right team for performance culture.
+
 ## 🔎 Search 
 **[Curiosity](https://curiosity.ai/)**: Productivity app that lets you search all your files and apps.
 
 ## 🤖 Robotics
-**[Franka Emika](https://www.franka.de/)**: Building robots for research and production.
 
 **[Agile Robots](https://www.agile-robots.com/)**: Aims to bridge the gap between AI and robotics by developing systems that offer state-of-the-art full-body force sensitivity and vision intelligence.
 
-**[Intrinsic](https://intrinsic.ai/)**: Software for Robotics. Advances in AI, perception and simulation will redefine what's possible for industrial robotics in the near future — with software and data at the core. 
-
 **[Angsa Robotics](https://angsa-robotics.com/)**: Mobile trash cleaning robots.
 
+**[Franka Emika](https://www.franka.de/)**: Building robots for research and production.
+
+**[Intrinsic](https://intrinsic.ai/)**: Software for Robotics. Advances in AI, perception and simulation will redefine what's possible for industrial robotics in the near future — with software and data at the core. 
+
 **[Magazino](https://www.magazino.eu/)**: Autonomous supply-chain robotics.
+
+**[Robominds](https://www.robominds.de/en/)**: AI for industrial robotics
 
 ## 🚗 Transportation & autonomous driving
 **[TWAICE](https://twaice.com/de/)**: Predictive battery analytics.
@@ -51,6 +63,8 @@ This list is by no means complete. If you think a company should be added or a d
 **[Konux](https://www.konux.com/)**: Combines Machine Learning algorithms and IoT to deliver software-as-a-service solutions for operation, monitoring, and maintenance process automation
 
 ## 🧬 Healthcare & Biotech
+**[Ebenbuild](https://www.ebenbuild.com/)**: Precision therapy based on personalized digital twins.
+
 **[molab.ai](https://www.molab.ai/)**: In silico property predictions for drug and compound discovery
 
 **[Ryver.ai](https://ryver.ai/)**: Software to generate synthetic data and assess its privacy as well as quality.
@@ -59,22 +73,52 @@ This list is by no means complete. If you think a company should be added or a d
 
 **[ImFusion](https://www.imfusion.com/)**: Consulting, research and development in advanced medical image computing technologies and computer vision.
 
+**[Laralab](https://www.laralab.com/)**: Decision support for heart valve interventions. 
+
 ## ⚙️ MLOps
 **[ZenML](https://zenml.io/home)**: Standardize ML Workflows.
 
 **[dstack.ai](https://dstack.ai/)**: It's like Docker, but for building AI apps.
 in the cloud
 
-## 💰 Business & Finance
+## 💰 Business, Finance & Legal
 **[Celonis](https://www.celonis.com/)**: Process Mining and Execution Management software.
 
 **[Tacto](https://tacto.ai/)**: Industrial procurement software.
 
 **[subcapitals](https://www.subcapitals.com/)**: AI asset management
 
+**[HAWK:AI](https://hawk.ai/)**: AML Surveillance.
+
+**[idnow](https://www.idnow.io/)**: KYC platform.
+
+**[metoda](https://metoda.com/)**: Amazon advertising support.
+
+**[Picsure](https://picsure.ai/)**: Asset management for non-financial assets.
+
 ## 🔬 Science & engineering
+**[Kinexon](https://kinexon.com/)**: Precise real-time locating
+
+**[Hyperganic](https://www.hyperganic.com/home/#about)**: Algorithmic Engineering. Software to design physical objects and machinery that are as complex, functional, and sustainable as Nature.
+
+**[Kreatize](https://kreatize.com/)**: Full-service platform granting hardware companies access to all manufacturing capabilities without the hassle of owning a machine.
+
+**[Makersite](https://makersite.io/)**: Enterprise digital twins for better products and supply chains.
 
 ## 🚀 Other
 **[Luminovo](https://luminovo.ai/)**: Software suite for electronics industry.
+
+**[Bleenco](https://www.bleenco.net/)**: No-Code AI platform for industry 4.0 solutions.
+
+**[Building Radar](https://buildingradar.com/)**: A Revenue Engineering platform for construction combining AI data insights, process excellence and talent development that seamlessly feeds into your CRM.
+
+**[Cobrainer](https://www.cobrainer.com/)**: AI-powered skill platform that makes internal recruiting, up-skilling,
+and talent management fast, easy, and unbiased.
+
+**[Celus](https://www.celus.io/)**: AI-powered Engineering Platform generates schematics, PCB Floorplan, and BOM compatible with the industry’s EDA Tools
+
+**[riskmethods](https://www.riskmethods.net/)**: Supply chain risk management.
+
+**[Fold.ai](https://fold.ai/)**: Forest ecosystem monitoring.
 
 **[Company](Link)**: Description
