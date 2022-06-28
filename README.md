@@ -160,7 +160,7 @@ and talent management fast, easy, and unbiased.
 **[Zetamatch](https://www.zetamatch.com/)**: Recruiting software.
 
 
-## Legal
+## ⚖️ Legal
 
 **[HAWK:AI](https://hawk.ai/)**: AML surveillance.
 
