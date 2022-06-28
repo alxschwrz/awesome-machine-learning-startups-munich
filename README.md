@@ -96,6 +96,8 @@ This list is by no means complete. If you think a company should be added or a d
 
 **[Breathment](https://breathment.com/home)**: Digitizing breathing therapy for health professionals.
 
+**[Cognote](https://www.cognote.ai/)**: Automating medical documentation for physicians.
+
 **[deepc](https://www.deepc.ai/)**: Radiology AI platform.
 
 **[Ebenbuild](https://www.ebenbuild.com/)**: Precision therapy based on personalized digital twins.
@@ -105,6 +107,8 @@ This list is by no means complete. If you think a company should be added or a d
 **[ImFusion](https://www.imfusion.com/)**: Consulting, research and development in advanced medical image computing technologies and computer vision.
 
 **[Laralab](https://www.laralab.com/)**: Decision support for heart valve interventions. 
+
+**[Leevi Health](https://leevi-health.com/)**: 
 
 **[m3i](https://www.m3i-muenchen.de/digital-biobank/)**: Clinical data for AI-based innovations.
 
