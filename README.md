@@ -130,12 +130,16 @@ This list is by no means complete. If you think a company should be added or a d
 
 ## 💰 Business, Finance & Operations
 
+**[Alexandrya](https://www.alexandrya.ai/)**: Sales lead generation.
+
 **[Celonis](https://www.celonis.com/)**: Process mining and execution management software.
 
 **[Ciara](https://www.getciara.com/)**: Real-time conversation and sales intelligence.
 
 **[Cobrainer](https://www.cobrainer.com/)**: AI-powered skill platform that makes internal recruiting, up-skilling,
 and talent management fast, easy, and unbiased.
+
+**[ExB](https://exb.de/)**: Document processing.
 
 **[Emax Digital](https://www.emax-digital.com/en/home)**: Amazon analytics.
 
@@ -150,6 +154,8 @@ and talent management fast, easy, and unbiased.
 **[Optiwiser AI](https://optiwiser.de/)**: Demand planning and inventory management for beverages industry.
 
 **[Picsure](https://picsure.ai/)**: Asset management for non-financial assets.
+
+**[Quantumrock](https://quantumrock.ai/)**: AI asset management.
 
 **[riskmethods](https://www.riskmethods.net/)**: Supply chain risk management.
 
@@ -167,6 +173,8 @@ and talent management fast, easy, and unbiased.
 **[top.legal](https://www.top.legal/)**: Contract management software.
 
 ## 🔬 Science & engineering
+
+**[Autovia](https://autovia.de/)**: Data Engineering & Analytics Consulting.
 
 **[Bleenco](https://www.bleenco.net/)**: No-Code AI platform for industry 4.0 solutions.
 
