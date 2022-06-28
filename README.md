@@ -180,7 +180,7 @@ and talent management fast, easy, and unbiased.
 
 **[Building Radar](https://buildingradar.com/)**: Revenue engineering platform for construction combining AI data insights, process excellence and talent development that feeds into CRM.
 
-**[Celus](https://www.celus.io/)**: AI-powered engineering platform generates schematics, PCB floorplan, and BOM compatible with the industry’s EDA tools
+**[Celus](https://www.celus.io/)**: AI-powered engineering platform generates schematics, PCB floorplan, and BOM compatible with the industry’s EDA tools.
 
 **[Hyperganic](https://www.hyperganic.com/home/#about)**: Algorithmic engineering. Software to design physical objects and machinery.
 
@@ -210,8 +210,3 @@ and talent management fast, easy, and unbiased.
 **[UX3D](https://ux3d.io/)**: Experts for 3D real-time.
 
 **[Brainamics](https://www.brainamics.de/)**: Playtesting for gaming.
-
-
-
-Template:
-**[Company](Link)**: Description
