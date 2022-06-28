@@ -31,6 +31,8 @@ This list is by no means complete. If you think a company should be added or a d
 
 **[Blickfeld](https://www.blickfeld.com/)**: LiDAR sensors and perception software.
 
+**[Isarsoft](https://www.isarsoft.com)**: Video analytics solutions.
+
 **[NavVis](https://www.navvis.com/)**: Point clouds and digital twins.
 
 **[Orbem](https://orbem.ai/)**: MRI-based imaging technology.
