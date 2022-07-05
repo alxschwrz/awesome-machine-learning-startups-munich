@@ -86,6 +86,8 @@ This list is by no means complete. If you think a company should be added or a d
 
 **[tiramizoo](https://tiramizoo.com/)**: Transport management system for urban logistics
 
+**[Tensoreye](https://tensoreye.de)**: Deep Learning for automotive and healthcare.
+
 **[TWAICE](https://twaice.com/de/)**: Predictive battery analytics.
 
 **[4.screen](https://www.4screen.com/)**: In-Car communication & marketing.
