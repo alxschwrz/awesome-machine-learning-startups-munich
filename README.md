@@ -155,6 +155,8 @@ and talent management fast, easy, and unbiased.
 
 **[metoda](https://metoda.com/)**: Amazon advertising support.
 
+**[numi](https://numi.digital/)**: Supply-chain advisor.
+
 **[Optiwiser AI](https://optiwiser.de/)**: Demand planning and inventory management for beverages industry.
 
 **[Picsure](https://picsure.ai/)**: Asset management for non-financial assets.
