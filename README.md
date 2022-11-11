@@ -20,6 +20,7 @@ This list is by no means complete. If you think a company should be added or a d
 
 **[SUMM](https://summ-ai.com/)**: Translating to easy language.
 
+**[KNOWRON](https://www.knowron.com/)**: AI-based digital assistant for industrial workers.
 
 ## 🗣️ Voice & sound
 
